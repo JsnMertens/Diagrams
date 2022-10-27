@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T21:23:53.193Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6ekiRQQ1GWQsnymwUJTa" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T21:26:45.236Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7R2P1puSJOWtAXXgSStD" version="20.5.1" type="github">
   <diagram id="g2FCs9_NGoZSU_UdevtO" name="Page-1">
-    <mxGraphModel dx="1822" dy="2409" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="3147" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,10 +62,10 @@
             <mxPoint x="-38" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="anGolS3CkhqZwp4OLp39-54" value="BUILDSHOT PROCESS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Montserrat;fontColor=#413565;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="anGolS3CkhqZwp4OLp39-54" value="BUILDSHOT PROCESS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Montserrat;fontColor=#23445D;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="125" y="-180" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="anGolS3CkhqZwp4OLp39-55" value="HOW THE CONFOGROUP VERSION IS MANAGED" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Montserrat;fontColor=#413565;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="anGolS3CkhqZwp4OLp39-55" value="HOW THE CONFOGROUP VERSION IS MANAGED" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Montserrat;fontColor=#23445D;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="127" y="-160" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="anGolS3CkhqZwp4OLp39-60" value="&lt;font color=&quot;#413565&quot;&gt;Publish scene&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6963C5;fillColor=#CCCCFF;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
