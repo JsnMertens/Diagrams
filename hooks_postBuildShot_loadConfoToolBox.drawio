@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T20:38:43.769Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dRcwDIvDUW-kepgRj2Xn" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T20:39:43.052Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="d1a_YiLb_60iOY4yn_kk" version="20.5.1" type="github">
   <diagram id="CM5r0V0yMCtf2sxqWUX7" name="Page-1">
-    <mxGraphModel dx="2073" dy="1421" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3644" dy="1736" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="140" y="1380" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-64" value="&lt;font color=&quot;#413565&quot;&gt;A Published File exists?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#10739e;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fillColor=#b1ddf0;aspect=fixed;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="725" width="150" height="150" as="geometry" />
+          <mxGeometry x="90" y="724" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-66" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#10739e;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fillColor=#b1ddf0;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="90" y="1067" width="150" height="150" as="geometry" />
@@ -34,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-70" value="&lt;font color=&quot;#413565&quot;&gt;Replace the Actual ConfoToolBoxPath, that is currently set at the Asset level, by the existing one at the Shot level&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6963C5;fillColor=#CCCCFF;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=1;aspect=fixed;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="330" y="916" width="200" height="100" as="geometry" />
+          <mxGeometry x="330" y="920" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;strokeWidth=2;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontColor=#413565;fillColor=#bac8d3;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-64" target="0qbXLlaw61yAoVdNJTFS-70">
           <mxGeometry relative="1" as="geometry">
@@ -90,54 +90,54 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-89" value="&lt;b style=&quot;color: rgb(65, 53, 101);&quot;&gt;&lt;span&gt;The artist tweaks the&lt;br&gt;ConfoToolBox&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=14;flipV=1;labelPosition=center;align=center;fontFamily=Lato;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1220.01" y="610" width="200" height="100" as="geometry" />
+          <mxGeometry x="-739.99" y="675" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#23445D;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-94" target="0qbXLlaw61yAoVdNJTFS-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-94" value="&lt;b style=&quot;color: rgb(65, 53, 101);&quot;&gt;&lt;span&gt;The artist click on&lt;br&gt;the&amp;nbsp; PUBLISH btn&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=14;flipV=1;labelPosition=center;align=center;fontFamily=Lato;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1220.01" y="775" width="200" height="100" as="geometry" />
+          <mxGeometry x="-739.99" y="840" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#23445D;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-95" target="0qbXLlaw61yAoVdNJTFS-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-95" value="&lt;b style=&quot;color: rgb(65, 53, 101);&quot;&gt;&lt;span&gt;The artist click on&lt;br&gt;the EDIT btn&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=14;flipV=1;labelPosition=center;align=center;fontFamily=Lato;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1220.01" y="280" width="200" height="100" as="geometry" />
+          <mxGeometry x="-739.99" y="345" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#23445D;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-96" target="0qbXLlaw61yAoVdNJTFS-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-96" value="&lt;font color=&quot;#413565&quot;&gt;&lt;b&gt;&lt;span&gt;Transform the LiveGroup, that are stored at the Asset level (unique), to Group in oder to make it editable&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6963C5;fillColor=#CCCCFF;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;aspect=fixed;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="445" width="200" height="100" as="geometry" />
+          <mxGeometry x="-740" y="510" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#23445D;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-97" target="0qbXLlaw61yAoVdNJTFS-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-97" value="&lt;font color=&quot;#413565&quot;&gt;&lt;b&gt;&lt;span&gt;Publish the Group at the Shot level, under the current shot (that make it not unique) then switch it to a LiveGroup&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6963C5;fillColor=#CCCCFF;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;aspect=fixed;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="940" width="200" height="100" as="geometry" />
+          <mxGeometry x="-740" y="1005" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#23445D;startArrow=none;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-113" target="0qbXLlaw61yAoVdNJTFS-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-98" value="" style="ellipse;html=1;shape=startState;fillColor=#23445D;strokeColor=#23445d;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1295.01" y="-25" width="50" height="50" as="geometry" />
+          <mxGeometry x="-664.99" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-99" value="" style="ellipse;html=1;shape=endState;fillColor=#23445D;strokeColor=#23445d;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1295.01" y="1130.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="-664.99" y="1195.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-107" value="CONFO TOOL BOX" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Montserrat;fontColor=#23445D;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1360" y="-20" width="260" height="40" as="geometry" />
+          <mxGeometry x="-600" y="45" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-108" value="AN ARTIST NEED A TWEAK ON THE SHOT" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Montserrat;fontColor=#23445D;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1360" width="380" height="40" as="geometry" />
+          <mxGeometry x="-600" y="65" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-113" value="&lt;b style=&quot;color: rgb(65, 53, 101);&quot;&gt;&lt;span&gt;Go into the CustomRender Node and find the ConfoToolBox node&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=14;flipV=1;labelPosition=center;align=center;fontFamily=Lato;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;spacing=20;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="115" width="200" height="100" as="geometry" />
+          <mxGeometry x="-740" y="180" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#23445D;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-98" target="0qbXLlaw61yAoVdNJTFS-113">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1320.0100000000002" y="25" as="sourcePoint" />
-            <mxPoint x="1320.0049999999997" y="297" as="targetPoint" />
+            <mxPoint x="-639.9899999999998" y="90" as="sourcePoint" />
+            <mxPoint x="-639.9950000000003" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-115" value="&lt;b style=&quot;color: rgb(65, 53, 101);&quot;&gt;&lt;span&gt;The CustomRender Node contain the ConfoToolBox Node that his oath is set at the Asset level (unique)&lt;/span&gt;&lt;/b&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=Lato;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;arcSize=14;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;spacing=10;aspect=fixed;" vertex="1" parent="1">
