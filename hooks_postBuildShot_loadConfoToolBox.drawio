@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T20:39:43.052Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="d1a_YiLb_60iOY4yn_kk" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T13:15:50.404Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="H-DhTkP1CbPCZQK1W27P" version="20.5.1" type="github">
   <diagram id="CM5r0V0yMCtf2sxqWUX7" name="Page-1">
-    <mxGraphModel dx="3644" dy="1736" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2696" dy="1037" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
         <mxCell id="0qbXLlaw61yAoVdNJTFS-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;strokeWidth=2;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=16;fontColor=#333333;startArrow=none;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-83" target="0qbXLlaw61yAoVdNJTFS-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0qbXLlaw61yAoVdNJTFS-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;strokeWidth=2;dashed=1;dashPattern=1 1;endArrow=none;endFill=0;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-87" target="0qbXLlaw61yAoVdNJTFS-115">
+        <mxCell id="0qbXLlaw61yAoVdNJTFS-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;strokeWidth=2;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-87" target="0qbXLlaw61yAoVdNJTFS-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-87" target="0qbXLlaw61yAoVdNJTFS-83">
@@ -113,6 +113,9 @@
         <mxCell id="0qbXLlaw61yAoVdNJTFS-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#23445D;endArrow=block;endFill=1;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-97" target="0qbXLlaw61yAoVdNJTFS-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0qbXLlaw61yAoVdNJTFS-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;strokeWidth=2;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-97" target="0qbXLlaw61yAoVdNJTFS-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0qbXLlaw61yAoVdNJTFS-97" value="&lt;font color=&quot;#413565&quot;&gt;&lt;b&gt;&lt;span&gt;Publish the Group at the Shot level, under the current shot (that make it not unique) then switch it to a LiveGroup&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6963C5;fillColor=#CCCCFF;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;aspect=fixed;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1005" width="200" height="100" as="geometry" />
         </mxCell>
@@ -140,8 +143,17 @@
             <mxPoint x="-639.9950000000003" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0qbXLlaw61yAoVdNJTFS-115" value="&lt;b style=&quot;color: rgb(65, 53, 101);&quot;&gt;&lt;span&gt;The CustomRender Node contain the ConfoToolBox Node that his oath is set at the Asset level (unique)&lt;/span&gt;&lt;/b&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=Lato;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;arcSize=14;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;spacing=10;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="0qbXLlaw61yAoVdNJTFS-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;strokeColor=#23445D;strokeWidth=2;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="0qbXLlaw61yAoVdNJTFS-115" target="0qbXLlaw61yAoVdNJTFS-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0qbXLlaw61yAoVdNJTFS-115" value="&lt;b style=&quot;color: rgb(65, 53, 101);&quot;&gt;&lt;span&gt;The CustomRender Node contain the ConfoToolBox Node that his&amp;nbsp; path is set at the Asset level (unique)&lt;/span&gt;&lt;/b&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=Lato;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;arcSize=14;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="380" y="305" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0qbXLlaw61yAoVdNJTFS-119" value="&lt;font color=&quot;#413565&quot;&gt;&lt;b&gt;{PROD_ROOT}/assets/Library/setupTurn/&lt;br&gt;light/light_lighting/publish/katana/&lt;br&gt;Library-setupTurn-toolbox-light_lighting-last.katana&lt;/b&gt;&lt;/font&gt;" style="shape=note;size=20;html=1;fontFamily=Lato;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;arcSize=14;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="995" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0qbXLlaw61yAoVdNJTFS-121" value="&lt;font color=&quot;#413565&quot;&gt;&lt;b&gt;{PROD_ROOT}/assets/Library/setupTurn/&lt;br&gt;light/light_lighting/publish/katana/&lt;br&gt;Library-setupTurn-toolbox-light_lighting-last.katana&lt;/b&gt;&lt;/font&gt;" style="shape=note;size=20;html=1;fontFamily=Lato;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;arcSize=14;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontStyle=0;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="300" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
