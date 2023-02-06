@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T22:13:55.341Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Wf8QCZzys-olh9DjQWXs" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T22:16:47.541Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="niXuc19CSnEAJuMzI95u" version="20.8.13" type="github">
   <diagram name="Page-1" id="fNj0-TE6Fdqqiyk1-ISK">
-    <mxGraphModel dx="2487" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2887" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,8 +204,43 @@
         <mxCell id="ArCHf40UDOw1Z-b-1YcN-77" value="katanaImportAssetTool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-500" y="-630" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ArCHf40UDOw1Z-b-1YcN-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="-518.9411764705883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ArCHf40UDOw1Z-b-1YcN-78" value="katanaIUberCamTool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-500" y="-568.75" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-79" value="katanaShotSettingsTool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-510" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-80" value="SceneGenerator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-770" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-81" value="RenderManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-710" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-83" value="AnimStack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-648.75" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-85" value="katanaHooks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-388.75" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-86" value="materialCore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="-770" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-87" value="materialBase" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="-710" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-88" value="imageCore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="-648.75" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArCHf40UDOw1Z-b-1YcN-89" value="materialPublisherTool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="-588.75" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
